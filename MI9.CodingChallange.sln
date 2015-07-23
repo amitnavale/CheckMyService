@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.22823.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MI9.CodingChallange", "MI9.CodingChallange\MI9.CodingChallange.csproj", "{195F2C2E-E197-4516-8E86-E9743941DA68}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MI9.CodingChallange.Tests", "MI9.CodingChallange.Tests\MI9.CodingChallange.Tests.csproj", "{BFB4246B-FEA4-4D42-95CC-FFCC36614E36}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{195F2C2E-E197-4516-8E86-E9743941DA68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{195F2C2E-E197-4516-8E86-E9743941DA68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{195F2C2E-E197-4516-8E86-E9743941DA68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{195F2C2E-E197-4516-8E86-E9743941DA68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFB4246B-FEA4-4D42-95CC-FFCC36614E36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFB4246B-FEA4-4D42-95CC-FFCC36614E36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFB4246B-FEA4-4D42-95CC-FFCC36614E36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFB4246B-FEA4-4D42-95CC-FFCC36614E36}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
